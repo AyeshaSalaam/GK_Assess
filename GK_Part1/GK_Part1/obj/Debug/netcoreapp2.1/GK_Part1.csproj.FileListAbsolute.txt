@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\GK_Part1\GK_Part1\bin\Debug\netcoreapp2.1\GK_Part1.deps.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\GK_Part1\GK_Part1\bin\Debug\netcoreapp2.1\GK_Part1.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\GK_Part1\GK_Part1\obj\Debug\netcoreapp2.1\GK_Part1.csprojAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\GK_Part1\GK_Part1\obj\Debug\netcoreapp2.1\GK_Part1.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\GK_Part1\GK_Part1\obj\Debug\netcoreapp2.1\GK_Part1.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\GK_Part1\GK_Part1\obj\Debug\netcoreapp2.1\GK_Part1.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\GK_Part1\GK_Part1\bin\Debug\netcoreapp2.1\GK_Part1.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\GK_Part1\GK_Part1\obj\Debug\netcoreapp2.1\GK_Part1.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\GK_Part1\GK_Part1\obj\Debug\netcoreapp2.1\GK_Part1.pdb

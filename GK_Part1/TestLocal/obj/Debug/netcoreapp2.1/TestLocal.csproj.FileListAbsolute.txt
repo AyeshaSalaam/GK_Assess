@@ -1,0 +1,17 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\GK_Part1\TestLocal\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\GK_Part1\TestLocal\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\GK_Part1\TestLocal\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\GK_Part1\TestLocal\bin\Debug\netcoreapp2.1\TestLocal.deps.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\GK_Part1\TestLocal\bin\Debug\netcoreapp2.1\TestLocal.runtimeconfig.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\GK_Part1\TestLocal\bin\Debug\netcoreapp2.1\TestLocal.runtimeconfig.dev.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\GK_Part1\TestLocal\bin\Debug\netcoreapp2.1\TestLocal.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\GK_Part1\TestLocal\bin\Debug\netcoreapp2.1\TestLocal.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\GK_Part1\TestLocal\bin\Debug\netcoreapp2.1\GK_Part1.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\GK_Part1\TestLocal\bin\Debug\netcoreapp2.1\GK_Part1.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\GK_Part1\TestLocal\obj\Debug\netcoreapp2.1\TestLocal.csprojAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\GK_Part1\TestLocal\obj\Debug\netcoreapp2.1\TestLocal.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\GK_Part1\TestLocal\obj\Debug\netcoreapp2.1\TestLocal.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\GK_Part1\TestLocal\obj\Debug\netcoreapp2.1\TestLocal.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\GK_Part1\TestLocal\obj\Debug\netcoreapp2.1\TestLocal.csproj.CopyComplete
+C:\Users\User\Documents\Visual Studio 2017\Projects\GK_Part1\TestLocal\obj\Debug\netcoreapp2.1\TestLocal.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\GK_Part1\TestLocal\obj\Debug\netcoreapp2.1\TestLocal.pdb
