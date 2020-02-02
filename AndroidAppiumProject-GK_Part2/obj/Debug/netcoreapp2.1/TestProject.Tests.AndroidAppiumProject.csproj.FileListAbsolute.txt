@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\AndroidAppiumProject-GK_Part2\bin\Debug\netcoreapp2.1\TestProject.Tests.AndroidAppiumProject.deps.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\AndroidAppiumProject-GK_Part2\bin\Debug\netcoreapp2.1\TestProject.Tests.AndroidAppiumProject.runtimeconfig.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\AndroidAppiumProject-GK_Part2\bin\Debug\netcoreapp2.1\TestProject.Tests.AndroidAppiumProject.runtimeconfig.dev.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\AndroidAppiumProject-GK_Part2\bin\Debug\netcoreapp2.1\TestProject.Tests.AndroidAppiumProject.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\AndroidAppiumProject-GK_Part2\bin\Debug\netcoreapp2.1\TestProject.Tests.AndroidAppiumProject.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\AndroidAppiumProject-GK_Part2\obj\Debug\netcoreapp2.1\TestProject.Tests.AndroidAppiumProject.csprojAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\AndroidAppiumProject-GK_Part2\obj\Debug\netcoreapp2.1\TestProject.Tests.AndroidAppiumProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\AndroidAppiumProject-GK_Part2\obj\Debug\netcoreapp2.1\TestProject.Tests.AndroidAppiumProject.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\AndroidAppiumProject-GK_Part2\obj\Debug\netcoreapp2.1\TestProject.Tests.AndroidAppiumProject.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\AndroidAppiumProject-GK_Part2\obj\Debug\netcoreapp2.1\TestProject.Tests.AndroidAppiumProject.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\AndroidAppiumProject-GK_Part2\obj\Debug\netcoreapp2.1\TestProject.Tests.AndroidAppiumProject.pdb
