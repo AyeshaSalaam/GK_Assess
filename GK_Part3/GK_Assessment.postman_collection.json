@@ -1,0 +1,104 @@
+{
+	"info": {
+		"_postman_id": "b0915eb8-e7a0-4153-ba40-d6266f07a00d",
+		"name": "GK_Assessment",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Get_AllUsers",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "5a3a055c-a080-4ff2-b4d7-9765d2cc5f0e",
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {",
+							"    pm.response.to.have.status(200);",
+							"});",
+							"",
+							"pm.test(\"Confirm First User from city: Gwenborough\", function () {",
+							"    var jsonData = pm.response.json();",
+							"    pm.expect(jsonData[0].address.city).to.eql(\"Gwenborough\");",
+							"});",
+							"",
+							"var jsonData = JSON.parse(responseBody);",
+							"postman.setEnvironmentVariable(\"Fake_Username\", jsonData[0].username);",
+							"",
+							"if (!responseBody.has(\"Tiger Balm\")) {",
+							"    postman.setNextRequest(\"Post_NewUser\");   ",
+							"}",
+							"else {",
+							"    postman.setNextRequest(null);   ",
+							"}",
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{Url}}/users",
+					"host": [
+						"{{Url}}"
+					],
+					"path": [
+						"users"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Post_NewUser",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "2e9b54d3-c3e2-4cb4-8caa-c7063ac5ff08",
+						"exec": [
+							"pm.test(\"Status code is 201 Created\", function () {",
+							"    pm.response.to.have.status(201);",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "[\r\n    {\r\n        \"id\": 11,\r\n        \"name\": \"Tiger Balm\",\r\n        \"username\": \"{{Fake_Username}}\",\r\n        \"email\": \"Sincere@april.biz\",\r\n        \"address\": {\r\n            \"street\": \"Kulas Light\",\r\n            \"suite\": \"Apt. 556\",\r\n            \"city\": \"Gwenborough\",\r\n            \"zipcode\": \"92998-3874\",\r\n            \"geo\": {\r\n                \"lat\": \"-37.3159\",\r\n                \"lng\": \"81.1496\"\r\n            }\r\n        },\r\n        \"phone\": \"1-770-736-8031 x56442\",\r\n        \"website\": \"hildegard.org\",\r\n        \"company\": {\r\n            \"name\": \"Romaguera-Crona\",\r\n            \"catchPhrase\": \"Multi-layered client-server neural-net\",\r\n            \"bs\": \"harness real-time e-markets\"\r\n        }\r\n    }\r\n]",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{Url}}/users",
+					"host": [
+						"{{Url}}"
+					],
+					"path": [
+						"users"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}
