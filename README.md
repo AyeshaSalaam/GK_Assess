@@ -1,6 +1,7 @@
 # GK_Assess
 
 For section 1 and 2 of the technical assessment:
+*related to GK_Part1 and AndroidAppiumProject-GK_Part2
 
 1. Register testproject.io account and install agent on pc/ laptop: https://docs.testproject.io/getting-started/installation-and-setup
 2. Connect mobile device to pc/ latop with usb and complete the 'Prepare your android device' found here: https://docs.testproject.io/using-the-smart-test-recorder/mobile-testing/creating-an-android-test-using-the-testproject-recorder
@@ -20,6 +21,7 @@ For section 1 and 2 of the technical assessment:
   e. once test is done, click on the graph icon that will display on the job block, which will load test report
 
 For section 3 of the technical assessment: 
+*related to GK_Part3
 
 1. have postman installed
 2. select import button
